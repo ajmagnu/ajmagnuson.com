@@ -5,7 +5,7 @@
 
 Project:     MStone
 Version:     2.3.1
-Color: #ed2aa8;
+Color: #00C2CA;
 ------------------------------------------------------------------
 [General Styles]
 */
@@ -183,7 +183,7 @@ iframe {
 }
 
 .demo-preview .new-label {
-    background: #ed2aa8;
+    background: #00C2CA;
     color: #fff;
     position: absolute;
     top: -15px;
@@ -211,7 +211,7 @@ iframe {
 */
 
 a {
-    color: #ed2aa8;
+    color: #00C2CA;
     transition: all .3s ease-in-out;
 }
 
@@ -243,7 +243,7 @@ h5 > a:hover,
 h5 > a:focus,
 h6 > a:hover,
 h6 > a:focus {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 p,
@@ -404,7 +404,7 @@ pre {
 }
 
 .progress-bar.progress-bar-brand {
-    background-color: #ed2aa8;
+    background-color: #00C2CA;
 }
 
 .pb-number-box {
@@ -566,7 +566,7 @@ button {
 }
 
 .btn.btn-brand:before {
-    background: #ed2aa8;
+    background: #00C2CA;
 }
 
 .btn.btn-brand.btn-outline {
@@ -590,7 +590,7 @@ button {
 }
 
 .btn.btn-gray:before {
-    background: #ed2aa8;
+    background: #00C2CA;
 }
 
 .btn.btn-gray.btn-outline {
@@ -665,7 +665,7 @@ button {
 
 .breadcrumb-item > a:hover,
 .breadcrumb-item > a:focus {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
@@ -761,7 +761,7 @@ button {
 }
 
 .nav-pills .nav-link.active {
-    border-color: #ed2aa8;
+    border-color: #00C2CA;
 }
 
 .nav-pills .nav-link.active,
@@ -861,7 +861,7 @@ button {
 .page-item.active .page-link,
 .page-link:focus,
 .page-link:hover {
-    border-color: #ed2aa8;
+    border-color: #00C2CA;
     color: #202020;
 }
 
@@ -1299,7 +1299,7 @@ button {
 }
 
 .slides-pagination a.current {
-    background: #ed2aa8;
+    background: #00C2CA;
 }
 
 @media (max-width: 992px) {
@@ -1398,7 +1398,7 @@ button {
 
 .social-icons > li > a:hover,
 .social-icons > li > a:focus {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 /*------------------------------------------------------------------
@@ -2013,11 +2013,11 @@ button {
 .header.header-small .inner-nav > ul > li > a:hover,
 .header.header-small .inner-nav > ul > li > a:focus,
 .header.header-small .inner-nav > ul > li > a.active {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .header.header-small .inner-nav > ul > li.sub-menu-open > a {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 /*------------------------------------------------------------------
@@ -2105,8 +2105,8 @@ button {
 }
 
 .inner-nav .sub-menu li.sub-menu-open > a {
-    border-color: #ed2aa8;
-    color: #ed2aa8;
+    border-color: #00C2CA;
+    color: #00C2CA;
 }
 
 .inner-nav .sub-menu li a {
@@ -2118,7 +2118,7 @@ button {
 
 .inner-nav .sub-menu li a:hover {
     color: #777;
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .inner-nav .sub-menu li:hover::after {
@@ -2746,6 +2746,8 @@ button {
 
 .bg-dark-30:before {
     background: rgba(0, 0, 0, .3);
+    /*background: rgba(4, 76, 26, 0.25);*/
+    background:rgba(0, 0, 0, 0.5);
     content: "";
     left: 0;
     top: 0;
@@ -2820,7 +2822,7 @@ button {
 .filters > li a:hover,
 .filters > li a.current {
     opacity: 1;
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 @media (max-width: 767px) {
@@ -3188,7 +3190,7 @@ a[rel~="gallery"]:hover {
     position: absolute;
     top: 20px;
     right: 20px;
-    background-color: #ed2aa8;
+    background-color: #00C2CA;
     padding: 4px 8px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -3255,7 +3257,7 @@ a[rel~="gallery"]:hover {
 
 .post-meta a:hover,
 .post-meta a:focus {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .post-info {
@@ -3269,7 +3271,7 @@ a[rel~="gallery"]:hover {
 
 .post-info a:hover,
 .post-info a:focus {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .post-tags {
@@ -3290,7 +3292,7 @@ a[rel~="gallery"]:hover {
 }
 
 .post-tags a:hover {
-    background: #ed2aa8;
+    background: #00C2CA;
     color: #fff;
     opacity: 1;
 }
@@ -3325,7 +3327,7 @@ a[rel~="gallery"]:hover {
 }
 
 .post-content blockquote:hover {
-    border-color: #ed2aa8;
+    border-color: #00C2CA;
 }
 
 .post-content ul,
@@ -3417,7 +3419,7 @@ a[rel~="gallery"]:hover {
 
 .comment-meta-author a:hover,
 .comment-meta-author a:focus {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .comment-meta-date {
@@ -3431,7 +3433,7 @@ a[rel~="gallery"]:hover {
 
 .comment-meta-date a:hover,
 .comment-meta-date a:focus {
-    color: #ed2aa8;
+    color: #00C2CA;
     opacity: 1;
 }
 
@@ -3453,7 +3455,7 @@ a[rel~="gallery"]:hover {
 
 .comment-reply > a:hover,
 .comment-reply > a:focus {
-    background: #ed2aa8;
+    background: #00C2CA;
     color: #fff;
 }
 
@@ -3499,7 +3501,7 @@ a[rel~="gallery"]:hover {
 
 .widget a:hover,
 .widget a:focus {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .widget input,
@@ -3543,7 +3545,7 @@ a[rel~="gallery"]:hover {
 }
 
 .search-button:hover {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .widget_archive ul li a,
@@ -3633,7 +3635,7 @@ a[rel~="gallery"]:hover {
 }
 
 .widget_tag_cloud .tagcloud > a:hover {
-    background: #ed2aa8;
+    background: #00C2CA;
     color: #fff;
     opacity: 1;
 }
@@ -3806,7 +3808,7 @@ a[rel~="gallery"]:hover {
 .bg-dark a:not(.btn),
 .bg-gradient a:not(.btn),
 .module-dark a:not(.btn) {
-    color: #ed2aa8;
+    color: #00C2CA;
     transition: all .3s ease-in-out;
 }
 
@@ -3819,6 +3821,24 @@ a[rel~="gallery"]:hover {
     outline: 0;
     text-decoration: none;
     color: #f7b8b8;
+}
+
+.module#profile {
+    background-color: #21272d;
+    color: #fffef4;
+}
+
+.module#profile .progress {
+    background-color: #ECEBE3;
+}
+.module#profile h1, 
+.module#profile h2, 
+.module#profile h3, 
+.module#profile h4, 
+.module#profile h5, 
+.module#profile h6, 
+.module#profile p {
+    color: #fffef4;
 }
 
 .bg-dark h1 > a,
@@ -3932,7 +3952,7 @@ a[rel~="gallery"]:hover {
 .module-dark h6 > a:focus,
 .module-dark .h6 > a:hover,
 .module-dark .h6 > a:focus {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .bg-dark h1,
@@ -4050,7 +4070,7 @@ a[rel~="gallery"]:hover {
 .bg-dark .nav-pills .nav-link.active,
 .bg-gradient .nav-pills .nav-link.active,
 .module-dark .nav-pills .nav-link.active {
-    border-color: #ed2aa8;
+    border-color: #00C2CA;
 }
 
 .bg-dark .nav-pills .nav-link.active,
@@ -4059,7 +4079,7 @@ a[rel~="gallery"]:hover {
 .bg-gradient .show > .nav-pills .nav-link,
 .module-dark .nav-pills .nav-link.active,
 .module-dark .show > .nav-pills .nav-link {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .bg-dark .accordion .card,
@@ -4083,7 +4103,7 @@ a[rel~="gallery"]:hover {
 .bg-dark .accordion .card-header a:hover,
 .bg-gradient .accordion .card-header a:hover,
 .module-dark .accordion .card-header a:hover {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .bg-dark .blog-grid .post,
@@ -4111,7 +4131,7 @@ a[rel~="gallery"]:hover {
 .bg-gradient .post-meta a:focus,
 .module-dark .post-meta a:hover,
 .module-dark .post-meta a:focus {
-    color: #ed2aa8;
+    color: #00C2CA;
 }
 
 .bg-dark .owl-dots .owl-dot,
